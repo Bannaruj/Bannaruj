@@ -1,5 +1,5 @@
 # ☝️🤓 Bannaruj ELLE
-** `Study in South East Asia University` **
+**`Study in South East Asia University`**
 ---
 ### Languages and Tools
 <img align="left" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/66254194-4736-469a-b942-5d02730c0260" />
