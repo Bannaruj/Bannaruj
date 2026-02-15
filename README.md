@@ -21,5 +21,5 @@ Currently Studying in South East Asia University
 ### Contact
 [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg)](https://www.facebook.com/brrn.rucn.lim.sm.wngs)
 [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/bannaruj_/)
-[![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg)](https://discord.com/users/844247353035587625)
+[![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg)](https://discord.com/users/844247353035587625)
 
