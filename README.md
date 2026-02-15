@@ -19,6 +19,7 @@ Currently Studying in South East Asia University
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### Contact
+[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg)](https://www.facebook.com/brrn.rucn.lim.sm.wngs)
 [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/bannaruj_/)
 [![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg)](https://discord.com/users/844247353035587625)
-![large-filled-instagram](large/filled/instagram.svg)
+
