@@ -19,5 +19,5 @@ Currently Studying in South East Asia University
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### Contact
-[![Mail Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]((https://www.instagram.com/bannaruj_/)) 
+[![Mail Badge](https://img.shields.io/badge/-@Bannaruj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]((https://www.instagram.com/bannaruj_/)) 
 [![Mail Badge](https://img.shields.io/badge/-Maksym_Rudnyi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rudik.programer@gmail.com)
