@@ -1,7 +1,8 @@
 # ☝️🤓 Bannaruj ELLE
 **`Study in South East Asia University`**
 
-ชื่อจริง บรรณรุจน์ นามสกุล ลิ้มสมวงศ์ ชื่อเล่น L เป็น full stack developer ผมต้องการที่จะเรียนรู้เทคโนโลยีใหม่ๆหรือสิ่งที่น่าสนใจในวงการdeveloper🧑‍💻🧑‍💻
+Computer Science student interested in AI, Computer Vision and Web Development.
+Currently Studying in South East Asia University
 
 ---
 ### Languages and Tools
