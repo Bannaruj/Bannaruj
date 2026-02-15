@@ -2,6 +2,7 @@
 **`Study in South East Asia University`**
 
 Computer Science student interested in AI, Computer Vision and Web Development.
+
 Currently Studying in South East Asia University
 
 ---
